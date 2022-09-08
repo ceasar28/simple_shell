@@ -1,1 +1,1 @@
-simple_shell project by Ekete Emmanuel and Esosa Omoigui
+simple_shell project by Ekete Emmanuel and Esosa Omoigui today
